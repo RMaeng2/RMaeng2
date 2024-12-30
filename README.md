@@ -9,7 +9,7 @@
 
 ### about me
 #### favorite character : 농담곰
-![농담곰]([https://i.pinimg.com/550x/c5/ae/3a/c5ae3a02a869f7381797046f59854d54.jpg](https://pbs.twimg.com/profile_images/1519730490919747584/aBNirN8-_400x400.jpg))
+![농담곰](https://i.pinimg.com/550x/c5/ae/3a/c5ae3a02a869f7381797046f59854d54.jpg)
 
 <!--
 **RMaeng2/RMaeng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
