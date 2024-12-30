@@ -1,7 +1,11 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=RMaeng+World%21&fontSize=65&fontAlign=50&fontAlignY=40&desc=instagram+%40r_maeng_2&descSize=20&descAlign=50&descAlignY=60)
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRMaeng2&edge_flat=true&title=%EB%AA%85)
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRMaeng2&edge_flat=false&title=hits)
+
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 
 <!--
