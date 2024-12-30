@@ -7,6 +7,10 @@
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
+### about me
+favorite character
+농담곰
+![농담곰](https://i.pinimg.com/550x/c5/ae/3a/c5ae3a02a869f7381797046f59854d54.jpg)
 
 <!--
 **RMaeng2/RMaeng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
